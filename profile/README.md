@@ -1,75 +1,184 @@
-<div id="header" align="center">
-       <img
-       width="150px"
-       src="../assets/App logo 256x256 circle.png"
-       alt="Logo"
-       />
+<div align="center">
+
+<a href="https://absc.uz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.svg" />
+    <img src="../assets/banner-light.svg" width="100%" alt="ABSC — MedTech company, Tashkent" />
+  </picture>
+</a>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_absc.uz-1F3D99?style=for-the-badge)](https://absc.uz)
+[![Email](https://img.shields.io/badge/✉️_contact@absc.uz-1F3D99?style=for-the-badge)](mailto:contact@absc.uz)
+[![Phone](https://img.shields.io/badge/📞_+998_77_114_06_26-1F3D99?style=for-the-badge)](tel:+998771140626)
+
+**🇷🇺 [Русский](#-о-нас)** &nbsp;·&nbsp; **🇬🇧 [English](#-about-us)**
+
 </div>
 
+<br/>
+
+## 👋 О нас
+
+**ABSC** — продуктовая MedTech-компания из Ташкента. Мы создаём цифровые системы, которые снимают рутину с клиник и делают процессы понятнее — и для персонала, и для пациентов.
+
+> *Продукты с заботой о людях.*
+
+<br/>
+
+## 🩺 Продукты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Synapse](https://synapse-system.uz)
+
+Медицинская информационная система для клиник и больниц.
+
+`Регистратура` `ЭМК` `Документооборот` `HR` `Склад` `Касса` `Запись пациентов`
+
+Спроектирована с учётом стандартов качества и безопасности **JCI**.
+
+**[synapse-system.uz →](https://synapse-system.uz)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 [Synapse-Animals](https://synapse-animals.uz)
+
+ERP-система для ветеринарных клиник — подход Synapse, адаптированный под ежедневную работу ветклиники.
+
+`ERP` `Ветеринария`
+
+<br/>
+
+**[synapse-animals.uz →](https://synapse-animals.uz)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠 Что мы делаем
+
+<table>
+<tr>
+<td align="center" width="25%">💻<br/><b>Разработка</b><br/><sub>CRM, ERP и МИС</sub></td>
+<td align="center" width="25%">🎯<br/><b>Продуктовый дизайн</b><br/><sub>UX/UI сложных систем</sub></td>
+<td align="center" width="25%">🌐<br/><b>Веб-дизайн</b><br/><sub>сайты и лендинги</sub></td>
+<td align="center" width="25%">✨<br/><b>Брендинг</b><br/><sub>айдентика и стратегия</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 🤝 Партнёры
+
+<table>
+<tr>
+<td align="center" width="50%">🏥<br/><b>AKFA Medline University Hospital</b></td>
+<td align="center" width="50%">🏛<br/><b>Ассоциация медицинских организаций</b></td>
+</tr>
+</table>
+
+<br/>
+
+## 📬 Контакты
+
+| | |
+|:--|:--|
+| 🌐 **Сайт** | [absc.uz](https://absc.uz) |
+| ✉️ **Email** | [contact@absc.uz](mailto:contact@absc.uz) |
+| 📞 **Телефон** | [+998 77 114 06 26](tel:+998771140626) |
+| 📍 **Адрес** | г. Ташкент, Мирзо-Улугбекский район, ул. Навнихол, 7 |
+
+<br/>
+
 ---
 
-Synapse System – это комплексная ERP-система, разработанная для автоматизации процессов и обеспечения эффективной работы медицинских учреждений.
+<br/>
 
-Система специально спроектирована для соответствия строгим стандартам качества и безопасности, установленным Joint Commission International (JCI), что позволяет медицинским организациям не только оптимизировать свою деятельность, но и соответствовать международным критериям аккредитации. Она объединяет различные аспекты деятельности клиник, больниц и других медицинских организаций в единую платформу, позволяя оптимизировать управление ресурсами, улучшить качество обслуживания пациентов и повысить финансовую прозрачность.
+## 👋 About us
 
-Ключевые функциональные возможности Synapse System:
-- управление персоналом
-	- учет рабочего времени и посещаемости
-	- управление кадровым резервом и оценка эффективности персонала
-- управление пациентами
-	- электронная медицинская карта (ЭМК), соответствующая требованиям JCI по конфиденциальности и доступности
-	- запись на прием и управление расписанием с учетом доступности персонала и оборудования
-	- управление страховыми полисами и выставление счетов
-	- портал для пациентов, обеспечивающий безопасный доступ к информации и взаимодействию с клиникой
-- управление рисками и безопасностью пациентов
-	- cистема уведомлений о критических событиях и рисках
-	- учет и анализ медицинских ошибок и неблагоприятных событий
-	- управление доступом к информации в соответствии с принципами конфиденциальности
-- управление медицинскими услугами
-	- каталог медицинских услуг, соответствующих международным классификациям
-	- назначение и выполнение процедур с контролем соответствия клиническим протоколам JCI
-	- учет расходных материалов и лекарственных средств с контролем сроков годности и условиями хранения
-- управление финансами
-	- бухгалтерский учет в соответствии с международными стандартами
-	- анализ финансовых показателей для оптимизации деятельности
-- управление запасами (склад, склады отделений)
-	- учет лекарственных средств и расходных материалов с отслеживанием сроков годности и партий
-	- управление складом и автоматическое формирование заказов для поддержания оптимального уровня запасов
-- аналитика и отчетность
-	- формирование отчетов, необходимых для прохождения аккредитации JCI
-	- анализ ключевых показателей эффективности (KPI) для мониторинга и улучшения качества медицинской помощи
-- и многое др. 
+**ABSC** is a MedTech product company based in Tashkent, Uzbekistan. We build digital systems that take routine work off clinics and make processes clearer for both staff and patients.
 
----
+> *Products built with care for people.*
 
-Synapse System is a comprehensive ERP system designed to automate processes and ensure the efficient operation of medical institutions.
+<br/>
 
-The system is specifically designed to meet the strict quality and safety standards established by Joint Commission International (JCI), enabling medical organizations to not only optimize their operations but also meet international accreditation criteria. It integrates various aspects of clinics, hospitals, and other medical organizations into a single platform, streamlining resource management, improving patient care, and increasing financial transparency.
+## 🩺 Products
 
-Key features of the Synapse System:
-- Human Resources Management
-	- Time and Attendance Tracking
-	- Talent Pool Management and Performance Assessment
-- Patient Management
-	- Electronic Medical Record (EMR) compliant with JCI privacy and accessibility requirements
-	- Appointment scheduling and scheduling management, taking into account staff and equipment availability
-	- Insurance Policy Management and Billing
-	- Patient Portal for secure access to information and interaction with the clinic
-- Risk and Patient Safety Management
-	- Critical Event and Risk Notification System
-	- Recording and Analysis of Medical Errors and Adverse Events
-	- Information Access Management in Accordance with Privacy Principles
-- Medical Services Management
-	- Catalog of Medical Services Compliant with International Classifications
-	- Procedure Assignment and Performance Monitored for Compliance with JCI Clinical Protocols
-	- Consumables and Medication Accounting with Expiration Dates and Storage Conditions
-- Financial Management
-	- Accounting in Accordance with International Standards
-	- Financial Performance Analysis for Operational Optimization
-- Inventory Management (Warehouse, Storage Facilities) (departments)
-	- medication and consumable inventory management with expiration date and batch tracking
-	- warehouse management and automated order generation to maintain optimal inventory levels
-- analytics and reporting
-	- generating reports required for JCI accreditation
-	- key performance indicator (KPI) analysis for monitoring and improving the quality of medical care
-- and much more.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Synapse](https://synapse-system.uz)
+
+A medical information system for clinics and hospitals.
+
+`Reception` `EMR` `Document flow` `HR` `Warehouse` `Cash desk` `Appointments`
+
+Designed with **JCI** quality and safety standards in mind.
+
+**[synapse-system.uz →](https://synapse-system.uz)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🐾 [Synapse-Animals](https://synapse-animals.uz)
+
+An ERP system for veterinary clinics — the Synapse approach, adapted to the daily work of a vet clinic.
+
+`ERP` `Veterinary`
+
+<br/>
+
+**[synapse-animals.uz →](https://synapse-animals.uz)**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠 What we do
+
+<table>
+<tr>
+<td align="center" width="25%">💻<br/><b>Development</b><br/><sub>CRM, ERP & medical IS</sub></td>
+<td align="center" width="25%">🎯<br/><b>Product design</b><br/><sub>UX/UI for complex systems</sub></td>
+<td align="center" width="25%">🌐<br/><b>Web design</b><br/><sub>websites & landing pages</sub></td>
+<td align="center" width="25%">✨<br/><b>Branding</b><br/><sub>identity & strategy</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## 🤝 Partners
+
+<table>
+<tr>
+<td align="center" width="50%">🏥<br/><b>AKFA Medline University Hospital</b></td>
+<td align="center" width="50%">🏛<br/><b>Association of Medical Organizations</b></td>
+</tr>
+</table>
+
+<br/>
+
+## 📬 Contact
+
+| | |
+|:--|:--|
+| 🌐 **Website** | [absc.uz](https://absc.uz) |
+| ✉️ **Email** | [contact@absc.uz](mailto:contact@absc.uz) |
+| 📞 **Phone** | [+998 77 114 06 26](tel:+998771140626) |
+| 📍 **Address** | 7 Navnikhol St., Mirzo-Ulugbek district, Tashkent, Uzbekistan |
+
+<br/>
+
+<div align="center">
+<sub>© ABSC · MedTech, made with care for people</sub>
+</div>
