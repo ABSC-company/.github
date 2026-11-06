@@ -13,7 +13,7 @@
 [![Email](https://img.shields.io/badge/✉️_contact@absc.uz-1F3D99?style=for-the-badge)](mailto:contact@absc.uz)
 [![Phone](https://img.shields.io/badge/📞_+998_77_114_06_26-1F3D99?style=for-the-badge)](tel:+998771140626)
 
-**🇷🇺 [Русский](#-о-нас)** &nbsp;·&nbsp; **🇬🇧 [English](#-about-us)**
+**🇷🇺 [Русский](#-о-нас)** &nbsp;·&nbsp; **en [English](#-about-us)**
 
 </div>
 
